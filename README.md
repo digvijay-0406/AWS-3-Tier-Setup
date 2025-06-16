@@ -1,4 +1,4 @@
-# 4-Tier Architecture Project Documentation
+# 3-Tier Architecture Project Documentation
 
 ## Project Overview
 
